@@ -1,0 +1,43 @@
+_repo: The-Stuff-of-Manhood-Some-Needed-Notes-in-American-Character_67403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Speer, Robert E. (Robert Elliott)
+    aliases:
+    - Speer, Robert Elliott
+    - Speer, R. E. (Robert Elliott)
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '54186'
+    url: http://www.gutenberg.org/2009/agents/54186
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Elliott_Speer
+description: ''
+gutenberg_issued: '2022-02-14'
+identifiers:
+  gutenberg: '67403'
+  lccn: '17031444'
+language: en
+pgterms:marc904: https://archive.org/details/stuffofmanhoodso00spee
+pgterms:marc905: 20171108172945speer
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Fleming H. Revell Company,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Merrick lectures for 1916-17. Delivered at the Ohio Wesleyan university,
+  Delaware, Ohio, April 1-5, 1917
+subjects:
+- !lcsh 'Christian life'
+- !lcsh 'Moral education'
+- !lcsh 'Conduct of life'
+- !lcsh 'Character'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: Discipline and austerity -- The conservation and release of moral
+  resources -- An unfrightened hope -- The joy of the minority -- The life invisible.
+title: 'The Stuff of Manhood: Some Needed Notes in American Character'
+url: http://www.gutenberg.org/ebooks/67403
